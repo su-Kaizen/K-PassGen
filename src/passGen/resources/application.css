@@ -1,0 +1,75 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.root{
+	-fx-background-color: #171717;
+}
+
+
+
+#genButton{
+	-fx-background-color: #171717;
+	-fx-border-color: #03f4fc;
+	-fx-text-fill: #03f4fc;
+	-fx-border-radius: 17;
+	-fx-font-size: 20;
+}
+
+#genButton:hover{
+	-fx-background-color: #2a2a2a;
+	-fx-background-radius: 20;
+}
+
+#genButton:pressed{
+	-fx-background-color: #0f0f0f;
+}
+
+
+*{
+	-fx-font-family: 'monospace';
+	-fx-text-fill: #03f4fc;
+	-fx-font-weight: bold;
+}
+
+*:focused{
+	-fx-font-family: 'monospace';
+	-fx-color: #03f4fc;
+	-fxf-border-color: #03f4fc;
+	-fx-focus-color: #03f4fc;
+	-fx-faint-focus-color: transparent;
+}
+
+*:active{
+	-fx-active-color: #03f4fc;
+}
+
+
+.slider .track{
+	-fx-background-color: #03f4fc;
+}
+
+.slider .thumb {
+	-fx-background-color: #03f4fc;
+}
+
+#generation{
+	-fx-background-color: #171717; 
+	-fx-text-fill: #050505;
+	-fx-font-size: 20;
+	-fx-font-weight: bold;
+}
+
+#delText{
+	-fx-text-fill: #000000;
+	-fx-font-size: 19;
+}
+
+#close{
+	-fx-background-color: #171717;
+}
+
+#minimize{
+	-fx-background-color: #171717;
+}
+
+
+/* */
