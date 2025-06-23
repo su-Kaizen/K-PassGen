@@ -3,7 +3,8 @@
 
 K-PassGen is a password generator that can create passwords with random chars and words (a 2000 words list). This is my first proyect using JavaFX so probably the code is a little bit crap.
 
-The random chars mode is very simple, just select with the slide bar the lenght of your password and you are ready to go. 
+The random chars mode is very simple, just select with the slide bar the lenght of your password and you are ready to go.
+
 ![image](https://github.com/user-attachments/assets/29807b1d-6d8a-4c7e-80a1-d190d57df1fc)
 
 The random words mode is a bit more advanced; You cand adjust the generation as you like with these diferent options: 
