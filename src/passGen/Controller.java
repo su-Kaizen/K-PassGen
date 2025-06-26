@@ -84,7 +84,7 @@ public class Controller implements Initializable{
 		nparam.setText(t+"");
 		t = (int) slider1.getValue();
 		nparam1.setText(t+"");
-		PassGen.loadWords(false);
+		PassGen.loadWords(true);
 		slider.valueProperty().addListener(new ChangeListener<Number>() {
 		
 		/*Listeners at the slider bars*/
