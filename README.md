@@ -5,6 +5,8 @@ K-PassGen is a password generator that can create passwords with random chars an
 
 The random chars mode is very simple, just select with the slide bar the lenght of your password and you are ready to go.
 
+**UPDATE FOR V1-1:** In the same dir where is the executable (doesn't matter if it is JAR or EXE) you will find 'words.txt', the file with all the words that K-PassGen uses, you can modify it freely.
+
 ![image](https://github.com/user-attachments/assets/29807b1d-6d8a-4c7e-80a1-d190d57df1fc)
 
 The random words mode is a bit more advanced; You cand adjust the generation as you like with these diferent options: 
